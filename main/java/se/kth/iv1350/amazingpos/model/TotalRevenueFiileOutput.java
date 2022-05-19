@@ -9,7 +9,7 @@ public class TotalRevenueFiileOutput {
         double amount;
         public TotalRevenueFileOutput(){
             amount = 0;
-            fileLoc = "se/kth/iv1350/amazingpos/model/";
+            fileLoc = "se/kth/iv1350/amazingpos/model/file.txt";
     
         }
     
